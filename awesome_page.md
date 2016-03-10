@@ -1,9 +1,9 @@
 # Top of Page
 
 
-** Bold **
+**Bold**
 
-* Italic * 
+*Italic* 
 
 ``` 
 <html> 
