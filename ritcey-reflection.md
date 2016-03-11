@@ -19,5 +19,3 @@ I think that I still need to spend a lot more time working with it and getting c
 **How was your first experience of pairing in a GPS?**
 
 I really liked it! I think at first, it was a little odd and awkward to have someone watching over us, but once we got settled it was very helpful. I think the guide was very helpful in answering questions and explaining things thouroughly when we got stuck. I am definitely glad that we have an outlet to speak to someone more experience than me once a week.
-
-
